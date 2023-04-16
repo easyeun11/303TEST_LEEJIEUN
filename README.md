@@ -3,10 +3,10 @@
 
 
 # 터미널 세팅 필요
-pip install bs4
-pip install lxml
-pip install pandas
-pip install selenium==3.14.1 
+1. pip install bs4
+2. pip install lxml
+3. pip install pandas
+4. pip install selenium==3.14.1 
 - 최신 버전으로 진행 시 함수 활용에 애로사항이 있어 3 버전대로 설치하였음
 
 
